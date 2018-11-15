@@ -1,4 +1,0 @@
-FILE=/ghcyguohai/esp32ota/blob/master/application.bin
-INTERVAL=0
-VERSION=23.01.006
-SIZE=1208896
