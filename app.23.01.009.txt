@@ -1,4 +1,4 @@
 FILE=/ghcyguohai/esp32ota/master/app.23.01.009.bin
 INTERVAL=0
 VERSION=23.01.009
-SIZE=1208896
+SIZE=1205488
